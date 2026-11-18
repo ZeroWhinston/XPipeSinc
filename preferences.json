@@ -1,0 +1,11 @@
+{
+  "hideVaultEntryNames" : false,
+  "dontAutomaticallyStartVmSshServer" : false,
+  "dontAcceptNewHostKeys" : false,
+  "backgroundSessionInactivityTimeout" : null,
+  "iconSources" : [ ],
+  "alwaysConfirmElevation" : false,
+  "dontCachePasswords" : false,
+  "syncMode" : "instant",
+  "encryptAllVaultData" : false
+}
