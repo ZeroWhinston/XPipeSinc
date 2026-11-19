@@ -1,6 +1,66 @@
 # XPipe Vault (Keep this repository private!)
 
-It works! The git remote push succeeded. However, no connections have been pushed to this git repository yet.
+This repository contains all connection information that is designated to be shared.
+
+You can sync with this repository in all XPipe application instances the same way, every change you make in one instance will be reflected in the repository. 
+
+## Category list
+
+- **All connections**
+  - [**VPSы**](categories/0878685f-1092-43b3-9f5d-00a631888afa)
+- **All scripts**
+- **All identities**
+
+## Connection list
+
+**All connections / VPSы**
+
+- [**Латвия**](stores/84d28c3d-68cf-4ef7-b005-5ab4fd8649fe)
+- [**Москва**](stores/a7165ad2-8da0-4eae-b9ad-16e548fc31d2)
+- [**Москва Сайт**](stores/dbbd44f0-6401-4b25-8d92-7cea916df237)
+- [**Польша**](stores/9a671c72-b65e-4e82-8e8a-a808b06c88ef)
+- [**Санкт-Петербург**](stores/08b760e5-f23e-4096-ab68-da4b11827213)
+  - [**LXD containers**](stores/d3bd1a6a-030e-4e1f-b86b-eca7b6d867bd)
+- [**Финляндия**](stores/a7f3e2c7-b536-4dcd-90ad-c6d511b87208)
+
+
+
+## Secret encryption
+
+You have the option to fetch any sensitive information like passwords from outside sources like password managers or enter them at connection time through a prompt window. In that case, XPipe doesn't have to store any secrets itself.
+
+In case you choose to store passwords and other secrets within XPipe, all sensitive information is encrypted when it is saved with either:
+
+- A dynamically generated key file `vaultkey` (The data can then only be decrypted with that file present)
+- A custom passphrase that can be set for your user in the vault settings menu (This option can only as secure as the password you choose)
+- Role-based secret encryption keys for team vaults (Data can only be decrypted by having access to a certain role and its secret key)
+
+See the vault access settings menu for configuring the vault access.
+
+By default, general connection data is not encrypted, only secrets are.
+So things like hostnames and usernames are stored without encryption, which is in line with many other tools.
+There is an available setting in the vault access settings menu to encrypt all connection data if you want to do that.
+
+## Cloning the repository on other systems
+
+Nowadays, most providers require a personal access token (PAT) to authenticate from the command-line instead of traditional passwords.
+You can find common (PAT) pages here:
+- **GitHub**: [Personal access tokens (classic)](https://github.com/settings/tokens)
+- **GitLab**: [Personal access token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html)
+- **BitBucket**: [Personal access token](https://support.atlassian.com/bitbucket-cloud/docs/access-tokens/)
+- **Gitea**: `Settings -> Applications -> Manage Access Tokens section`
+Set the token permission for repository to Read and Write. The rest of the token permissions can be set as Read.
+
+Even if your git client prompts you for a password, you should enter your token unless your provider still uses passwords.
+
+If you don't want to enter your credentials every time, you can use any git credentials manager for that.
+For more information, see for example:
+- https://git-scm.com/doc/credential-helpers
+- https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git
+
+Some modern git clients also take care of storing credentials automatically.
+
+## Troubleshooting
 
 ### Adding connections to the repository
 
