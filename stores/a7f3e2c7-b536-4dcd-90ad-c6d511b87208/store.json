@@ -1,0 +1,36 @@
+{
+  "type" : "ssh",
+  "additionalOptions" : null,
+  "disableShellInitTimeout" : false,
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "gateway" : null,
+  "host" : "103.82.103.118",
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "password" : {
+        "secrets" : [ {
+          "name" : "vault",
+          "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
+          "iteration" : 1,
+          "secret" : "QNndskvedY-lYcAWuCIOzQPazJcD2StuSRb1qbjQDWqCUwQej637Tpaa5av1h7IjuvuUtMxcFNDbiZvC7ugYUwdc4CKWrfCABa4-Z0JpWHUxr7ZcP1qxb2mthGAUCF1JvcaOjg5N6M885aU_qJBI7Wkv4c7Dq-n75_C_6Lxbt9CEAhwLjA6fmTxOcDm0OnREfspq7IFnNrH1ZJ0z9za4YV3GLC_pkob4C9WaipEeyFk=",
+          "token" : "Wib1AxHaiLiprxQeWOPD4Ivqx72NkVQHMXaBePfC4ZFsZizPOIdhqZPklV5RhZKUeGsf_x5t8SoIfYIdAUtrxw=="
+        } ]
+      },
+      "sshIdentity" : {
+        "secrets" : [ {
+          "name" : "vault",
+          "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
+          "iteration" : 1,
+          "secret" : "9xdzgQPf0mejWUhis8k8d_GDm6GYcY5XY1bn43wtcjQ7n-tqssenhIoW1Fs8agAnwTV-Ij8kJb6rqQdVLx8GjrlJ2pOTyRUI1fFe-pdTUFlwg_QeBMeZNkvO_N-3vQyo0SbHFBrBpBxbhK2joPzL9ESaegrQwQA6Gi3owmG0OAmO3wU2fGq5RgO5tCBmXiy7fIZlMLd3IpEYDWpOOp3C1nM5z_Mee_apQYWqCUuNSfkQFjJBYu5lGA84YKSa5bPvOqHZ30EFOVN8V8yy1bqsBRh-qUTQlG6-jvnm-iqlo5nkhI37wcq4Z9gvqqN7ts6-sux7VH4qaAyw9BK1b_ZVJ1A6aFhIp4DYeEFrFtnySSog0gMuAIqpBNWh3cyUcUil1kwbhC4uRr49nc07DJT43Pce_ldFkHPQfW95Sb3xaS9R2qSuGUtzO1aYHvZxs5kqKvR88aGme7Mmh709HzixU2g05e-LjEm9udnxPpd8Wb1H_27yvZcFo7tSCZ5M78sxh4mtvBXwofgwcvTpAA==",
+          "token" : "eIWkwXU87tI9xT7AML7F5PQbIJZ5Bmv6DeDRUiKxH_dJ5Ll-029EzKOkYDZ2Rq0IPHJrt2C0JKZaYgHbuTKqOw=="
+        } ]
+      },
+      "username" : "root"
+    }
+  },
+  "port" : 22,
+  "useGatewayWithProxyJump" : false
+}
