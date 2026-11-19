@@ -3,7 +3,7 @@
   "name" : "VPSы",
   "parentUuid" : "bfb0b51a-e7a3-4ce4-8878-8d4cb5828d6c",
   "config" : {
-    "color" : null,
+    "color" : "red",
     "confirmAllConfigurationChanges" : null,
     "confirmAllModifications" : null,
     "defaultGatewayStore" : null,
