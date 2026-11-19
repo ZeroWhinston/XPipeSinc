@@ -1,0 +1,17 @@
+{
+  "uuid" : "0878685f-1092-43b3-9f5d-00a631888afa",
+  "name" : "VPSы",
+  "parentUuid" : "bfb0b51a-e7a3-4ce4-8878-8d4cb5828d6c",
+  "config" : {
+    "color" : null,
+    "confirmAllConfigurationChanges" : null,
+    "confirmAllModifications" : null,
+    "defaultGatewayStore" : null,
+    "defaultIdentityStore" : null,
+    "dontAllowScripts" : null,
+    "sync" : true
+  },
+  "icon" : null,
+  "orderIndex" : 23.0,
+  "created" : "2026-11-19T10:25:31.036517Z"
+}
