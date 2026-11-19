@@ -1,0 +1,13 @@
+{
+  "uuid" : "d20c6690-39ff-4763-b921-86dd81fb4581",
+  "name" : "RDP Профиль",
+  "categoryUuid" : "69aa5040-28dc-451e-b4ff-1192ce5e1e3c",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "template" : false,
+  "pinToTop" : false,
+  "orderIndex" : 24.0,
+  "created" : "2026-11-19T10:29:37.970951700Z",
+  "tags" : [ ]
+}

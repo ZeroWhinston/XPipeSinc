@@ -1,0 +1,23 @@
+{
+  "type" : "syncedIdentity",
+  "accessScope" : null,
+  "password" : {
+    "secrets" : [ {
+      "name" : "vault",
+      "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
+      "iteration" : 2,
+      "secret" : "vmKpUhrXK72B1TdKrM8GSU9b_3mtx-rXm9CsouAQF1fTAlDiaOMzbWfd73n8moQHZRRyC_mGG-cjF8VTW2vlz8Ruqff1sRaeu23BtvPDIMoU7hi5aVL6L1OZgOEFjliyxggvoRdFdUq8gAUFNk619HLZ6qfB-4qiWDVLxCimfaxIFfMn0TNZBt4W7FrQN0pcAxmPZmHV4FsxPSCF0p1PBzvhJNrFcr6Xmtdn-SAP8htTi33-dJissmvT6v_PTL6A",
+      "token" : "jZtDUPpq52YXQ87B8qPsMwzj8J3ThxPHh5hRymQwlD2pkrnvV0NthBdErJYnMe3r4i4AdiZYPkTEJBejBoJWJA=="
+    } ]
+  },
+  "sshIdentity" : {
+    "secrets" : [ {
+      "name" : "vault",
+      "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
+      "iteration" : 1,
+      "secret" : "L0K4VkxWgW9w7vmsnMjd3qhdS-3JuYo_gj1GUaW_0asi70rJYcDwC4XcEEJAAsbLYKSH",
+      "token" : "smxSedmkFOD8VsN8VKXENBU4H3iaoYD4LQEHVeiLKd35MGH01uBkwJ_TQwsOCp2U2TmbLWu3ClErlBogDm3BOQ=="
+    } ]
+  },
+  "username" : "OFFICE\\streltsov"
+}
