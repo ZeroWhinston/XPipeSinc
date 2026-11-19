@@ -8,6 +8,7 @@ You can sync with this repository in all XPipe application instances the same wa
 
 - **All connections**
   - [**VPSы**](categories/0878685f-1092-43b3-9f5d-00a631888afa)
+  - [**RDP Работа**](categories/03baf590-1cbb-449a-bee1-f9fffacd1daf)
 - **All scripts**
 - **All identities**
   - [**Synced**](categories/69aa5040-28dc-451e-b4ff-1192ce5e1e3c)
@@ -23,6 +24,10 @@ You can sync with this repository in all XPipe application instances the same wa
 - [**Санкт-Петербург**](stores/08b760e5-f23e-4096-ab68-da4b11827213)
   - [**LXD containers**](stores/d3bd1a6a-030e-4e1f-b86b-eca7b6d867bd)
 - [**Финляндия**](stores/a7f3e2c7-b536-4dcd-90ad-c6d511b87208)
+
+**All connections / RDP Работа**
+
+empty
 
 **All identities / Synced**
 
