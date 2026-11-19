@@ -1,0 +1,13 @@
+{
+  "type" : "rdpSimple",
+  "additionalOptions" : null,
+  "associatedHost" : null,
+  "domain" : null,
+  "gateway" : null,
+  "host" : "it-1cserver01",
+  "identity" : {
+    "type" : "ref",
+    "ref" : "d20c6690-39ff-4763-b921-86dd81fb4581"
+  },
+  "port" : 3389
+}

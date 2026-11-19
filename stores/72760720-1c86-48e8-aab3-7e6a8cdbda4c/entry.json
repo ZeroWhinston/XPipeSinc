@@ -1,0 +1,13 @@
+{
+  "uuid" : "72760720-1c86-48e8-aab3-7e6a8cdbda4c",
+  "name" : "it-1cserver01",
+  "categoryUuid" : "03baf590-1cbb-449a-bee1-f9fffacd1daf",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "template" : false,
+  "pinToTop" : false,
+  "orderIndex" : 26.0,
+  "created" : "2026-11-19T10:30:53.205354900Z",
+  "tags" : [ ]
+}
