@@ -30,6 +30,7 @@ You can sync with this repository in all XPipe application instances the same wa
 **All connections / RDP Работа**
 
 - [**it-1cserver01**](stores/72760720-1c86-48e8-aab3-7e6a8cdbda4c)
+- [**it-prog1c5**](stores/21852c57-4d9f-46c4-b784-1133a889b660)
 
 **All identities / Synced**
 
