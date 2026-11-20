@@ -1,0 +1,13 @@
+{
+  "uuid" : "13a40cba-16cc-4b46-93b0-db23da2fbff7",
+  "name" : "TRM-SRV",
+  "categoryUuid" : "03baf590-1cbb-449a-bee1-f9fffacd1daf",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "template" : false,
+  "pinToTop" : false,
+  "orderIndex" : 30.0,
+  "created" : "2026-11-20T08:15:16.230276800Z",
+  "tags" : [ ]
+}
