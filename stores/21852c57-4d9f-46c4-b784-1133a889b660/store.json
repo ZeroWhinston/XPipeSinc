@@ -1,0 +1,26 @@
+{
+  "type" : "rdpSimple",
+  "additionalOptions" : null,
+  "associatedHost" : null,
+  "domain" : null,
+  "gateway" : null,
+  "host" : "it-prog1c5",
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "password" : {
+        "secrets" : [ {
+          "name" : "vault",
+          "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
+          "iteration" : 1,
+          "secret" : "wkITWpo_pRy4JFJk66IaszHXq-13U_YoK530t9jE4EcNdlM-dH56QgS8uGwASJYmBvLOsXI5buiCXYlSvNvlxuNIdJFNv2M779MVJXXs2wPXvvlV9OXPAwjz7iBf8hY5XtPBZMF3wbVI5kKykF2pDEHhrET0LVTKbTAlC7otQ865YoKDsIr7ilGCk7KU3PPr_uqmR9438evjh91EhmwAmwrtQ26_Dum82rI9q3kMr5KeGDkYqxO80Gjg7w17m6Vz",
+          "token" : "Q-Zy7rKJWaIpUjvxJf6Ys4DJDcmPsElMRqRc0MgEYzbj33lkmw-t5LBoAo7b1Pe9zVXW4PXVBAQyigsLpeLQiQ=="
+        } ]
+      },
+      "sshIdentity" : null,
+      "username" : "streltsov@office"
+    }
+  },
+  "port" : 3389
+}
