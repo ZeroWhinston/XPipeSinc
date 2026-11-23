@@ -1,0 +1,13 @@
+{
+  "uuid" : "c0f995bb-4cab-4b34-a0ab-8dc3127edd4c",
+  "name" : "Мегаклимат",
+  "categoryUuid" : "03baf590-1cbb-449a-bee1-f9fffacd1daf",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "template" : false,
+  "pinToTop" : false,
+  "orderIndex" : 32.0,
+  "created" : "2026-11-23T12:15:13.269387400Z",
+  "tags" : [ ]
+}

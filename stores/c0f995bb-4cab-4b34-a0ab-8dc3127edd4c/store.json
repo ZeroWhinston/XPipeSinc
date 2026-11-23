@@ -1,0 +1,26 @@
+{
+  "type" : "rdpSimple",
+  "additionalOptions" : null,
+  "associatedHost" : null,
+  "domain" : null,
+  "gateway" : null,
+  "host" : "87.117.9.55",
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "password" : {
+        "secrets" : [ {
+          "name" : "vault",
+          "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
+          "iteration" : 1,
+          "secret" : "jYF-I8GIZVo0koyesR3KRNy7Q3L8N2CtkUzAQU4uoCykhHq6t0demx95wEuQZscEeUXoWhEKgxa2tnxAUvpUS_LrWVmdIQp-MY77S1kyTTv1vadvPSWyhe9Xy2u0la2QiVLK6Qitgmq55nYFIySaVqX0PKwGMtjVM77c0_P_szyAuR7e3lCP5Hz4GSFHLlzIJu6QrjqTjNyZ0JiyNg8krj5TI-T35mamYvr6bJQ2wuI4A9gP",
+          "token" : "PK1NVZADaPG63Wk6rgFVxyaxC1f-h1cXr-ETsqJ4yKRikmXrAWnZpdyDMOeZdVA_8PJ-q8jC9NS9OtWalHEq4A=="
+        } ]
+      },
+      "sshIdentity" : null,
+      "username" : "TS1S"
+    }
+  },
+  "port" : 20633
+}
