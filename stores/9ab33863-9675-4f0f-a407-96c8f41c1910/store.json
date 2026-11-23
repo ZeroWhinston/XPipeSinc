@@ -15,8 +15,8 @@
           "name" : "vault",
           "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
           "iteration" : 1,
-          "secret" : "060anRmSy1LJkzm5_rTc8yaZyJZ-9lIeyp7wrrnckB5UamcBPyWrdP_Iv_WQ5vRmR5YsuZ7pvGQ2sqWrnhZTCUz7Dv_t1FTOv0QFk5w8d3pNqISYIMozgfM2DXsgQI14t28tsvWeENIZEuua0mfjvesSfvf4eZoF0f3paQ6dDzTKyvMXyWkzHKeQKuSaWMps4bOpWa_BFX0i5DaUWDUZu7ReNGrynrjh2gDQL_3blWKsbgHV9SIltJ3uJus=",
-          "token" : "F6m-yyAso4GGcD3FuQcgR8LbQTZfMlCxKYt5O9VVX8O_KKNn_UTGLjtYjuCrIIaewUu7bQr_poa-0soiQKHZKQ=="
+          "secret" : "tFYADzgdHjdrlLAvbikWL9BYkkt-KC7xzJDuxBlp5LkpQGnoEOwA92OlEMF1plzUhEPb68hK9lVCyjFgiP54oSL8ruRb3j_qZEEbbKSAc4-AN0NJSk94ntDCpvDGTzEX4j6zXm2EjuONwHrWZtn-Dp0WH-WABXXUK6czN1OpjhUwQYofJEdkA04Rb_u5F9vHViVNzIO2mepJ4HZT9h8X78sspILtm8-D7yNhn0ay1FM=",
+          "token" : "MEbJ3CFHkLickzOmCTpsVMd71DPpcTNBp2gjywoKsiqZnLIZWyL9dxvwoDry0cKRNAQZNU5fSWGH-IaDwdilng=="
         } ]
       },
       "sshIdentity" : {
@@ -24,11 +24,11 @@
           "name" : "vault",
           "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
           "iteration" : 1,
-          "secret" : "o-7WhN8LF0-nJ9ullYX_P14kIZ1CoHtPlXddGEovpvQdaThzEJ65bXBL2ADGFdHWGNvX",
-          "token" : "Z2hdVCw808S8pnk58OIeMTHck-gOIZSfbKffgfUC9KbGsJNwWi7ncuDqeVNxFMibMm6GrzIuU92dC5XSrbVvPg=="
+          "secret" : "o1FEycoK91PjMGA-lMDOA4ykXfsrdeIFSnqty1sIHDRSyO047kJPbtbw8YVliE30nrS0hNlqEtvMFZnEmT-QiO29TGxA_AFeGdz3bXQqqQHBwTr9FW8ZNuI9fBHfacpJcWEVNM5O7cAl5fAmThn-mhfclWOBfRbttnXDfhVs5UA1a5GbKCX8DK1WMKVXvoZrEiaM30UtsjCA4GbvIbkNE_UAqU3t1c8DvuCRYCrbCUU0Es0xWSbxILI1TdiGMng7B-mMdAVNLttmdFxnQ1uiEIVxF8rrzxI7AaiLOIWmsJ2JNZpQ_JQyaEGes8ELHaq3HLGtVainsTPhuZuv-KDz0Bky43AIeY2EL0Cgq24iI79eFZ6DPXG6nX_bBAnQL5jLQS36uOmX3UrR1shto60te1ZCWjxopauMdcqGa4tbnbnLc3Ttg8ytiURnHfvsTak4PkL09FGH-2Qnr_GyYeqvH2IXZd1Ro51yAP-JqHIDyAnoyKMowzYIAnl1KMA_WUzLRGMO9-Bw-i_wG2ueSoQhjQzuTySH0lc=",
+          "token" : "Aiy5oJj7vVQOiXdeml2WJsNhMpCCnKKDz89VCR-E_Ui2AmoIr33zeXIClcKKKYzMQly0DebmS4GcDSxwpkKYJA=="
         } ]
       },
-      "username" : "root"
+      "username" : "ops"
     }
   },
   "port" : 22,
