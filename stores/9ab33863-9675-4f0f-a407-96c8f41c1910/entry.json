@@ -1,0 +1,13 @@
+{
+  "uuid" : "9ab33863-9675-4f0f-a407-96c8f41c1910",
+  "name" : "Hermes",
+  "categoryUuid" : "03baf590-1cbb-449a-bee1-f9fffacd1daf",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "template" : false,
+  "pinToTop" : false,
+  "orderIndex" : 31.0,
+  "created" : "2026-11-23T10:00:06.109738400Z",
+  "tags" : [ ]
+}

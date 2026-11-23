@@ -1,0 +1,36 @@
+{
+  "type" : "ssh",
+  "additionalOptions" : null,
+  "disableShellInitTimeout" : false,
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "gateway" : null,
+  "host" : "157.228.184.239",
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "password" : {
+        "secrets" : [ {
+          "name" : "vault",
+          "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
+          "iteration" : 1,
+          "secret" : "060anRmSy1LJkzm5_rTc8yaZyJZ-9lIeyp7wrrnckB5UamcBPyWrdP_Iv_WQ5vRmR5YsuZ7pvGQ2sqWrnhZTCUz7Dv_t1FTOv0QFk5w8d3pNqISYIMozgfM2DXsgQI14t28tsvWeENIZEuua0mfjvesSfvf4eZoF0f3paQ6dDzTKyvMXyWkzHKeQKuSaWMps4bOpWa_BFX0i5DaUWDUZu7ReNGrynrjh2gDQL_3blWKsbgHV9SIltJ3uJus=",
+          "token" : "F6m-yyAso4GGcD3FuQcgR8LbQTZfMlCxKYt5O9VVX8O_KKNn_UTGLjtYjuCrIIaewUu7bQr_poa-0soiQKHZKQ=="
+        } ]
+      },
+      "sshIdentity" : {
+        "secrets" : [ {
+          "name" : "vault",
+          "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
+          "iteration" : 1,
+          "secret" : "o-7WhN8LF0-nJ9ullYX_P14kIZ1CoHtPlXddGEovpvQdaThzEJ65bXBL2ADGFdHWGNvX",
+          "token" : "Z2hdVCw808S8pnk58OIeMTHck-gOIZSfbKffgfUC9KbGsJNwWi7ncuDqeVNxFMibMm6GrzIuU92dC5XSrbVvPg=="
+        } ]
+      },
+      "username" : "root"
+    }
+  },
+  "port" : 22,
+  "useGatewayWithProxyJump" : false
+}
