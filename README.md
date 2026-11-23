@@ -17,6 +17,7 @@ You can sync with this repository in all XPipe application instances the same wa
 
 **All connections / VPSы**
 
+- [**Hermes**](stores/9ab33863-9675-4f0f-a407-96c8f41c1910)
 - [**Латвия**](stores/84d28c3d-68cf-4ef7-b005-5ab4fd8649fe)
 - [**Москва**](stores/a7165ad2-8da0-4eae-b9ad-16e548fc31d2)
 - [**Москва еще один**](stores/abd4aa08-ef88-46c9-bd45-aa9cf1b7e924)
@@ -29,7 +30,6 @@ You can sync with this repository in all XPipe application instances the same wa
 
 **All connections / RDP Работа**
 
-- [**Hermes**](stores/9ab33863-9675-4f0f-a407-96c8f41c1910)
 - [**it-1cserver01**](stores/72760720-1c86-48e8-aab3-7e6a8cdbda4c)
 - [**it-prog1c5**](stores/21852c57-4d9f-46c4-b784-1133a889b660)
 - [**TRM-SRV**](stores/13a40cba-16cc-4b46-93b0-db23da2fbff7)
