@@ -20,6 +20,7 @@ You can sync with this repository in all XPipe application instances the same wa
 - [**Hermes**](stores/9ab33863-9675-4f0f-a407-96c8f41c1910)
 - [**Латвия**](stores/84d28c3d-68cf-4ef7-b005-5ab4fd8649fe)
 - [**Москва**](stores/a7165ad2-8da0-4eae-b9ad-16e548fc31d2)
+- [**Москва (Копия)**](stores/7e3226a7-d7b9-4c03-88ac-66e5eb7f3563)
 - [**Москва еще один**](stores/abd4aa08-ef88-46c9-bd45-aa9cf1b7e924)
 - [**Москва Сайт**](stores/dbbd44f0-6401-4b25-8d92-7cea916df237)
 - [**Польша**](stores/9a671c72-b65e-4e82-8e8a-a808b06c88ef)
