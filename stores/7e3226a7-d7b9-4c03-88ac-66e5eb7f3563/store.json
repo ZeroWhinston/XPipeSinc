@@ -15,8 +15,8 @@
           "name" : "vault",
           "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
           "iteration" : 1,
-          "secret" : "NWAyAr9VITSQGABQ7DKs7gR7b9b8uMjJPUaboNT65XV9sqyWOJOWVjGmwFr92NMRmkzeKo5F6GjCzo8NCHu-AR1NQ35re3h-H0bXIiwWrDkhoUN3eTVOI_yWAeBmODAzRetS8mP6IXJa74gtCuO8O-0neI0kRK-7QiUNQN806pxmv6Lb8IA0UP8p-CpeMWI-srIKqBdEQYD6zCBt9yTEE4cfkYtGE4B9cTnHraucUKn-16iCQS6JVg==",
-          "token" : "sGcADWL2iXlXhDfR0heLBEXV4YBZyIxXVQPGcjSD88EwGC2c-p3uBxvDc46-UxMNBXg1J_HPuGG0UuIpY368uQ=="
+          "secret" : "T6BQR0VREpe4Mr57FIcCoFQrcwRBnl0m48EJeuZ7J_hP1I5wK9pYRM8BvrkLKIkN3pONJVvHspVadze1YmcuDb7Iq6JL0L0H74B8C-x8FWLpPnO0-9BWrzuWpIyJh8_Lmpm8coWjcx4fqj1LRG95Koy_4KSXkwlqs3iKcW2seeDqDIHb7rp0enSyge5M-aaatlWqf6LXcW7nKK8KWZbrXIw6N0ZfaMqSF0DNGhebiSR_sYlbLKQdO2OfgJw_cs7I",
+          "token" : "wfOtQxxQ2no936-fyc75hvH4s4jPd-gRVGhdqqo2JF48mqmhCVstxGdtd9nG-Y2c4JFET_vR6kMw61nf6yozuQ=="
         } ]
       },
       "sshIdentity" : {
@@ -24,11 +24,11 @@
           "name" : "vault",
           "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
           "iteration" : 1,
-          "secret" : "Ny_cEoJAhOrCAJ8ey-dbQyKorVE94b5AJzw4EsKBvrYQWNb7uYTA3QF6oNZAVRjLQw1BPrdVX-B_9VpSBpRRNE_kN8cF55_ncGw8COhbP7IePPtgrvqarWh0662foCDN5W2YTA8vMhw13WGX_aAEm9u8H7_R4FWy6IYHGyuIoqk0OnJQ-uvI-YwM3nAhWjvJKksRT6P3qM6f7_Pt2S4vl7YwCDa9ITELf8RDsG1xX6E-75d5ZT2HkVDFJ4RTJDiQewcA7Sp-7_YP1q_USOqBFXwjopdMy0MXFZ8ZfD3NATjGaqTsto7tgpe7wWJc39h4yno9BsFas7IKsbvKT8hBqoSSSjm6jIztOnbY_oL1zWxeFR4LOmEc2KhXF6KfBF7bpN94FFJcoXRNvrR4ie9DT0jvvB64yl6qEd5R2XzDLOHQUsaaeswbZozoz7aD69o0FK7Bqt01wh4jj7JTPpt6w24YGeCdsPj59GfoQOclrEuaBMjAghQ6pb4hv65QAqh6sPYRcjNBdNIRE7_exA==",
-          "token" : "ryPGAH1-6lKWeYEibAlpNv8swWN3zL7lRQmvNCzL6YNqHMk0bo9FQxZ9F7jjzNmGO9Zn4XZXaXNNduBSTKEsYQ=="
+          "secret" : "XJHeFC9DFfEc6l41c9izIirCpl84oHYjeWlyAzg_HZY879_i19mAD4sNN_qW7mHLu5g2e1pz6dpb6apVXntcxEWhmjnKn6uWw7IzbJaK5sh8QHYFjrFTuPU405k70TwSsj6F1hCu7Wxymkg2rVXGmCSsMUOZDrEto0WMllRNEOVFzgpAik0dJZYv0QJb_8UZ41grCWL2wp6jGbbehacJkWaKOZHFmorkGcECLSTY4zNLftdF2l2cMmB-7Z6VJCf_zBatiUnlEk2ef9aOzUL7SCFQQahGIkcyX9_DqPkRMsyZaa_8tpalwTv99qvPfLuKKghQOLldDmRm8Q0LNR5B7MlHyT3_aEpfim1J7Oj1_9DOHfVOdGAxVxRBBFL1ePi7kL-U7B87byYUQRV7a961rBTd-sBUso0H3O-txRKsGoYRvZH6oFxVAg5Lcg2CX48_NHnVjtlLjaBsW1FqRtxvC032k8GOz-roDOF5Sri6UPbVnEQcd7Ey1CtWq6g9RYcTCMoUJgrMfOZjRsVjLA==",
+          "token" : "ZLBqg2ABIEv6XA8Njbs4ifeMSQXGR8G9zUGPsuup0Uk_UWoe4cViBq33N3tkwxEeyUJekinRnIja5SnvDBoeDA=="
         } ]
       },
-      "username" : "root"
+      "username" : "zero"
     }
   },
   "port" : 22,
