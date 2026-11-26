@@ -37,6 +37,7 @@ You can sync with this repository in all XPipe application instances the same wa
 **All identities / Synced**
 
 - [**RDP Профиль**](stores/d20c6690-39ff-4763-b921-86dd81fb4581)
+- [**ZeroSSH**](stores/6eef5acd-c70b-4b13-9c74-359c13141f66)
 
 
 
