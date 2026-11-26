@@ -4,7 +4,7 @@
   "disableShellInitTimeout" : false,
   "dontInteractWithSystem" : false,
   "forwardX11" : false,
-  "gateway" : null,
+  "gateway" : "abd4aa08-ef88-46c9-bd45-aa9cf1b7e924",
   "host" : "185.244.43.81",
   "identity" : {
     "type" : "inPlace",
@@ -15,8 +15,8 @@
           "name" : "vault",
           "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
           "iteration" : 1,
-          "secret" : "CiwDoLkUn9n-EfHSxdfKu9q7Yj9__67ncvxcBlrBGxV7827ce9IBCrodsV1b2nLtRyFWhFyR5sIKGgmYRITv93cA6TPvIOd_2aSlgUPz9pnMeTox0CvMv9clPzutPhhX2fjKhV_UH-hhEvWTYUKLokZUYOJtjaUv86q46h73gVCVKnD661oGxIFicB9JpFDJaiQl2vIE0RFU3z2OzwIRdf6yq8TwCPmHFiW-HgbfC54U5CMIV84abw==",
-          "token" : "Rv2lA9bPqsGh3fVc_V0fCltHzslk2DKaMwUChWvT0XAXbDh5p6BJxFhJYhvBeYYFrz0dxlKuzyNLsKyWnWzzmQ=="
+          "secret" : "NWAyAr9VITSQGABQ7DKs7gR7b9b8uMjJPUaboNT65XV9sqyWOJOWVjGmwFr92NMRmkzeKo5F6GjCzo8NCHu-AR1NQ35re3h-H0bXIiwWrDkhoUN3eTVOI_yWAeBmODAzRetS8mP6IXJa74gtCuO8O-0neI0kRK-7QiUNQN806pxmv6Lb8IA0UP8p-CpeMWI-srIKqBdEQYD6zCBt9yTEE4cfkYtGE4B9cTnHraucUKn-16iCQS6JVg==",
+          "token" : "sGcADWL2iXlXhDfR0heLBEXV4YBZyIxXVQPGcjSD88EwGC2c-p3uBxvDc46-UxMNBXg1J_HPuGG0UuIpY368uQ=="
         } ]
       },
       "sshIdentity" : {
@@ -24,13 +24,13 @@
           "name" : "vault",
           "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
           "iteration" : 1,
-          "secret" : "I0cMfvDC2OejyNcMmYV8sz8CVx8XmRxlUai1F2zk3JVWrBXAK5CRyCujQnciRE89fuPMmYkNdyPy3XWkm4KkjYvvh27G2kvtcFcvGKuaO_8oIZELxGhEfy6v2l_VHRrwoR2lPWgOoHdbbqfqdwPhUMC_TSbimvUhus12zjCIqnkvqN9xsQw-3bc3Us7OVJXxPerkIM5kfm_8vcpcXHrqNpi7wywQHyNZAIgorTr634Z4QouMDQal4c5u3y6sUpxAhzwcqPQMQ4WRG4T6r9LagKtSiS52wtvEdYM9QXe7M6Rsi3FYhM09WEOA1Aw3YwZTZu8mdWZ_q4fvn-DXERK6m6TYCegz8TDQAdYHdkIw2Oc_0lE5bM1XusF81rMNWLleE9a0XKsE7zocYjdgkHltCXL-4vQON-n8cH-CWMlOpxf-Bup2PAzmuR4gdFTmGjHqsQaU-koUNVPuKiCM2KQDzhgiOcUCxH-EleTl7ZL1Ei1NOriOeHIpJRCAX8Ig7XNBLEtyzpznwCB_yi3yYmPdwJ-vr1I3yRI=",
-          "token" : "OZ8Kox0URmVCOKfPgIsyPgAmb-9cxG5Nxkcmt8WJuq_7VkmuMbgxc89Y-5OfCElHWzXLpzLu5k0F36xrBcbE-w=="
+          "secret" : "Ny_cEoJAhOrCAJ8ey-dbQyKorVE94b5AJzw4EsKBvrYQWNb7uYTA3QF6oNZAVRjLQw1BPrdVX-B_9VpSBpRRNE_kN8cF55_ncGw8COhbP7IePPtgrvqarWh0662foCDN5W2YTA8vMhw13WGX_aAEm9u8H7_R4FWy6IYHGyuIoqk0OnJQ-uvI-YwM3nAhWjvJKksRT6P3qM6f7_Pt2S4vl7YwCDa9ITELf8RDsG1xX6E-75d5ZT2HkVDFJ4RTJDiQewcA7Sp-7_YP1q_USOqBFXwjopdMy0MXFZ8ZfD3NATjGaqTsto7tgpe7wWJc39h4yno9BsFas7IKsbvKT8hBqoSSSjm6jIztOnbY_oL1zWxeFR4LOmEc2KhXF6KfBF7bpN94FFJcoXRNvrR4ie9DT0jvvB64yl6qEd5R2XzDLOHQUsaaeswbZozoz7aD69o0FK7Bqt01wh4jj7JTPpt6w24YGeCdsPj59GfoQOclrEuaBMjAghQ6pb4hv65QAqh6sPYRcjNBdNIRE7_exA==",
+          "token" : "ryPGAH1-6lKWeYEibAlpNv8swWN3zL7lRQmvNCzL6YNqHMk0bo9FQxZ9F7jjzNmGO9Zn4XZXaXNNduBSTKEsYQ=="
         } ]
       },
       "username" : "root"
     }
   },
   "port" : 22,
-  "useGatewayWithProxyJump" : false
+  "useGatewayWithProxyJump" : true
 }
