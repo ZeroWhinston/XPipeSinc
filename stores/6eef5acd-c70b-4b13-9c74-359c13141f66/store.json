@@ -1,0 +1,23 @@
+{
+  "type" : "syncedIdentity",
+  "accessScope" : null,
+  "password" : {
+    "secrets" : [ {
+      "name" : "vault",
+      "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
+      "iteration" : 2,
+      "secret" : "QnykclnX_-tedqG3tEVgKw8G6PRctrbIu96WufoXTbpJKeijtqWkkJU56MuBIfwbxwCGXh98HDAVqs2AVkzZHyUS9AxKsO33Kp_O1Lb81Vf6yvm6CtW7SMiHh7c_XvkrS1-NMiyKpdQ69Vh2KW8hvu-cZ6gpzHA4L76C8yGIyjSgnlRnR7R_k0cQaR-RckY4fDiVX-ZsTSSYejNIugC92D6Hxw_3qna2Wjc-w37sdseehI3I28tKw9FwXVdJngyT",
+      "token" : "Ul8gPcR5hgqt_Cn6kJqqw45Er9GGat7a7206HFi8JPhOjwIzeJoDZ-HPxGWgu_i9wYhSCDqQc24xMsM3MF_AXQ=="
+    } ]
+  },
+  "sshIdentity" : {
+    "secrets" : [ {
+      "name" : "vault",
+      "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
+      "iteration" : 2,
+      "secret" : "VtWWQBLzjwAe72RFu3H1Y-uzXRaz9OR4D8TUysF3ZBTdbB-gOLX7w7PdIh_vmxIAmmE0XoKI3frj43N9NQWWkkniyYEmCg2Pev2FrspOYg34edndNlqI7joHVLSG2EQWPblfB5UNaM6IlS5siLYO9gjDFd0PZw46co64xW70OUDfpMibKwQavhF2G0LmUKjEqb3dxNT1Jj-0GxDc8lAnM2QGZ22DZi749uY_dlmyvNPEdridaW2L-rMeYQOkPAy3YjwcMneHpg1J-5hm0ckGzMCGe1RhqZr9TyJz58XAlmIJTgWgaVyudjQxKeQNlA5kHOUHcCrNxZlwXQG9OcacXK75VJY-Kd6daxyUh5YZEf42ae5HJqSv7sddE_QTDqqWHjy03gy6oBjCY8vfO3lQt5nn_8yw37yNN2ZZYR98E90_n8e9oXz2l2YfBT9qeVNF-dPjBmtON-S-Os6IUu6TSyDwLB6kVuXDQCBfXNpTwsVs0vpwHWxCw-mcHVD1ica7B0-pLbgmlLGgtnrvAnRx7cW7IxJJ-nk0dE5acckbnebc2SHUTx2POB9Zd8GvtSTEB53Cck4nIPctQRPmZKKttA9V60t-FwES-jZoWt5p_C0iQ9t43yRocwTc01buXCiAhn0hTPE_WaW3jvu79VtA_6lwoJL8ungqo6Af9Gd3CJmV70lZ02zNZkdbnPWX2YngRNhdYkh-aYG812uukvQSux3V4RGlc9liE3rtyp3Ua972izpryWIW8sXL-1sphbY6eUdQr7L9YvhAJbqx1bT4cqyqetfU6MAJLM_Lsucjilxtg3aDAG0aXLDcv6Lbn-_nHJBvRz_zuOTTyWarjs-lJKzu_9l5aTNu0s1_bhMgxm9L59N1Z_LTPFhEaBrrg6X2H-NGcNCU3DYG9bDYBnBz8ySepALRV4TwrUwArN2_0uJ5_c_OSl67TFPMrDGdOxZ6Tl8Ei7wNVOJnCMGyMUmDsW_YI3MFcoUHcGigU5mobEk2dFMaj-YknO3TU_F1Yajo0sWJjp_WrUcyK8YR_yZqJYf53jFNiGHJwycABAoVB7MdPfc0fpVOEIbFkkmVZKRgW2-w5uTOP-_phGx7bmz2X6lBeaLuHFppqZaSjsi6XbmTIulkZ6uvwdAJhiA0UNXdgB48TbNLVpvJx10a0mbl70-oIai5iUPjvgyMFnaXw6u6nlnlrqDtVsJ5cDG4z7_8opZQ1VOCI0ZE7kxo02U9o1zPGsI1OFrEe9VaBT1PS784UUXwnr-Fobd-VcqfrB-FwvxTRC5kROV0f_BfehZ90QifmLTGpKgUlOA=",
+      "token" : "UGR8bRzOjVpdYorxe1-wgMVIbbssgY7sXeQx3-PMQ4jExA7d_qx4TAfzTTX8zG3xxlUuqKRvtbXS6Q3v0okkoQ=="
+    } ]
+  },
+  "username" : "Zero"
+}

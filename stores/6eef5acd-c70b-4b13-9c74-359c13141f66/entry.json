@@ -1,0 +1,13 @@
+{
+  "uuid" : "6eef5acd-c70b-4b13-9c74-359c13141f66",
+  "name" : "ZeroSSH",
+  "categoryUuid" : "69aa5040-28dc-451e-b4ff-1192ce5e1e3c",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "template" : false,
+  "pinToTop" : false,
+  "orderIndex" : 33.0,
+  "created" : "2026-11-26T16:42:36.285195400Z",
+  "tags" : [ ]
+}
