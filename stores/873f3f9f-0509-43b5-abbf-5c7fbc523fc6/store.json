@@ -15,8 +15,8 @@
           "name" : "vault",
           "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
           "iteration" : 1,
-          "secret" : "iMHwOVmhemWZcBg-dm2XmmmPokmXbafsYgzu87EZR1Oj1AeW3wOb87DnqfxXe-KRCsYK7Oi905vQEBlZGEqDuJI5HsBDk9VZjGBjgOI34AiS-tFl48pucCgbVQ8cj109ykupxOeUp9NA5OphshuZSVf7QhIAFvbIqAptr9Lo_M1s55w4gvqJT_bClBeK7BZeWCm9ZpgHc8FtiOq-b09mYaaUK-ufw4lzy6cuUfdJM6kd3Z3C3XScsA==",
-          "token" : "SoPcE-QuOD_6FQzz9mnc9vVkksDCXnmgsnr69Y7VZWbJW-TyEDrnRM9bBzFfnYspjvOknMStuatniLphZjcHuA=="
+          "secret" : "ag09Eh0gNTUzAbOKbttMbBfm0C4qcw0WPgMbFcEj0zCHnFzkK-MQ_q18lj8LinkV9pbXayzOtygycI_n-RWDVELKFL1lNrhhkr-dvv3i4v1t7MKV-3ycDahm73HJcjTYki4FuURxEyGiGsOAws7XcKizKmJgdG5lacXm-9ap_iqY-OcBULeHWgMJM79GLJFuxHcAv_MeVSGCLbmxqTlQ3gYKM6d4idOFfDbmEMFPnbUH_SqPc0bBgbtg6B_dsUukXyaodCU0BUU9-DKcs2Jk1g==",
+          "token" : "ZMLKB4awphKJKjnAaACthQKOgrxwJX3Gq3BeXTooGaJyYSVauMj3JWtC4TmpmVAk--n72ZHHJb2eJyDPjNYnNA=="
         } ]
       },
       "sshIdentity" : {
@@ -24,11 +24,11 @@
           "name" : "vault",
           "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
           "iteration" : 1,
-          "secret" : "1W0FgbHuMNFfMWdnM1OxaGm4RF3fjYnS52Ob83CQGkcQDsCLiVGsm-OrJLtljrPo-2HHntVse_ja2v9xC8HYPDEVP3vfRzUY55Uq0W-eUOXJbzZwNcstRtuXuftlXF8q6yhB1XEoXlzYPKLaDytG_Ui6yci53PZZebNLi7HLlLpGOE6UBn0jHD0I-9VV2cGeZnKYVMKraOTLAo4qb8RWEXR5qJh2SaP4Pzx99L9BmziBqvK_-92Bw0svWW_dxvFS9vla3qh5YuFFNy8V9kC6TxwWJ94gnrBO-oWiWeI6cz0eb65PpuxVjx0-qWaOuWP-2Tvnd43MIm19FXW6pwhh9U2bSRTjFhOwFjzusHCf-9LLbA8pB_dfOmAcRjdptzjpU1rVStz0zztwescmpdlRePSu-OvspUjCLl6B-nkFF3h5p00wlGi6tdeix5kM9QMmJfXypMLE3i4J_Q3nErMm4TWOuS-q-5Shw-hYzO9T_90Z7P7613U8ij2Q0AtE02W-9RbMidavlQv_glM=",
-          "token" : "eqNcCsy1uuzS9al1gio4lq76_SS7oTcNrnvpvUSFyyp8LSgJI9mHmVjFewOUDJ-xxJgHB7pGTJxLFmEVJgZ49Q=="
+          "secret" : "PrW2j3ePjUY-hejf7epXHL_gnlgk2xVCOkuYRCj-0CerylTBW_kXLNDMnop8l1vC0URAeB5e2GX9ZUBRC5sz_JpOezgQl7W_GILYl6ItbC3Za2leZSZxCAkP6-NxOb9GFE_lzafbMgCTMc7eyZC516aBAjwzFY9JdJBPFGlMURM46-Iucdmemp52WyZMou1tOYQcYtA_MLWOii4sWUdLqUBQcBs9xHK8HnVx9ON3VmZDdby5ynGst4g3ny-pUavyFYjw80NkSPvXGxt8HjtWuW1u4ucJy4x1vVtTql6OlNN1S95ujOz-ZYffgKEgX1IsCK-kKqyTc8sv424U4GA_lw1yvihuNA1yESxJrcdAMwXWKhCFZsYGpIImtf-Wa7tN52Hiqu_5o7N6dwJKB2dei4LLtkqdQIiKu5UrNlCfvGDxOVf0vS4vzrPBtOOfeaoo95iKLzgYl3ofN_qOzxUw6T2y6PEnbr5yk9tuERFFQqnh6YFR2Ja7Sh_rqVHrvoZY7lJz52MCnEdR1PI=",
+          "token" : "v_eM4cZe_mlRusZ4jAu5l83drCZ5CJqE_oqc-Sj_kgHGmRFvo-Jh9R4hEsoHBR73lmLPmfW_rWL1goq0KodCIQ=="
         } ]
       },
-      "username" : "root"
+      "username" : "zero"
     }
   },
   "port" : 22,
