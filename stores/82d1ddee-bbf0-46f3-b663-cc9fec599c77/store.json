@@ -4,7 +4,7 @@
   "disableShellInitTimeout" : false,
   "dontInteractWithSystem" : false,
   "forwardX11" : false,
-  "gateway" : null,
+  "gateway" : "abd4aa08-ef88-46c9-bd45-aa9cf1b7e924",
   "host" : "195.123.214.52",
   "identity" : {
     "type" : "inPlace",
@@ -15,8 +15,8 @@
           "name" : "vault",
           "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
           "iteration" : 1,
-          "secret" : "oUaVNOLKltknuqYCBhobgX5cLDg2Ktd9X8LIM7_NrwX3GFTcd1N-eJxecXXGCW3xasAenKEg7ubvyiOI9IN12oyR8Y7WjFmPBSI2adG-3m3bDMLNZV5aQB1bsa98YiBp2DOlUsFf3jms4f4yzXLzD78RDwrU3fycDNjJpS1QrbiZ61lw2R4KV__LCap8Ng7fnVpcNRoQ5fNLJQsXmcm-HAdziFdMdc4H8nK6vQff3kWt-6SCi0R9xye6tqZ6VD4P",
-          "token" : "EH44u-FL51tpzchwIx0cItcX9PH5mMkYNDQeAiSbWrPN2FxGhv-ptjdBSDHPAVxQjtVlNWWzPFDCeL8MD0qYvg=="
+          "secret" : "sSUAz-1lWle9oNlIYMGoOlkasB5X3YnrobN4CPCVxpj1rba_lo5K-mUwyh3Mcq-jy5ELD2lw7hNIiBSs-o_rjAMbA6e2NYt-wb5GmLTt8Wb9XiT9_OHVFlzNJhxt5KX3ZivlVUoylXsQ0UflPkuXXQTkQcW2iFTyojvPagfCQhvTwxxMJXeIaWGF4fmZJbudYV3D4j3xT9ye74GEjB5RohK0whGcLL-AvHhfm8JEUwNg378Zz4rXd1t-sexnz_r7",
+          "token" : "hAqXFEXlOam_gUHGmtptCHvcr-pDOOw_O1giMtuJgbrhvXrBja0OgjZAfa5VwhiBqIXF3G1vQdNh86THf_hu5w=="
         } ]
       },
       "sshIdentity" : {
@@ -24,8 +24,8 @@
           "name" : "vault",
           "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
           "iteration" : 1,
-          "secret" : "TVF6d9lRPXXV4s2QpGWt14BUCOZd5I5Y9K9DQAbgumvm6CYH64X5DZ9F0ofj1L8IzP5UxDmW39Tr_yvZtTYybnpQgf6sEXjCkZ7yK7zDgFd1R_ehZA8uawaE2OdzbF1UYQFeGEpMDi2jGgDlU1W2YNr07MYO0atNkZ6LDUE4AvvL2oNjWES7qHJWFFyzc_w_fTnMd9E-mGsCZ_ix2a5lFfwQz5BVErEnSm04kOR9RfcoFZHPVT78Ie4PEw4_lEzsXjthQu5_xdINwqxCM37Q4fQeZqLl_Es0xHIa2DrJe5_FnNV1WjF2TS-CC-dTifyg1LINUhSasDACEnJSkVyvffZuTd0WtckfA0Yxg5dK3OyzheFWcZDPzSURvGmzrlJf0l83fb28PX5ukqnoR3i3edvw1H5v2qeHLkoVHr9tizoW0ALEH-nCn2KN0xjMjmXnmxFDTupdj6Ai-BBIepwGr1rZYZfqPFVAMrTgppO8EL08xDrsLnI4DDKcuCFXRGB7Sbh7520gfvojLPE=",
-          "token" : "3fQS2yyMMLTvvs90i7qkWXG7xPWruENZF0BLmGVIWolhUwAYwdSSuqTgQEKzIEQ5qP2_nPCyM3XpnfyIjAwZYA=="
+          "secret" : "wYcgl5mjwBPXTgfeiq8XHLnKyZG-Ov8ltMVr1FMDayXNMECu0WatNt-ZwG6N2x77GxqSjpY7-NNgpyec9bibV7oibUmZ0thLrEBEqYYzSU_NH-uCN-_xLOiK0RfjpPe5wDrpNL4vFAxfpL1lmnA3SblHLh47aQFhCOB0bbJNFfwMTgQ1l8kvVYssl1CMTi0SUumF2UDVCpAzjL2IPmleOZ9tIkvNeqsRIJlL5JY47r93EAS3UJE0jwOwCKnT3z-SSuMAH2ebg3ojBMX8EaHPtn3RhSkUUkEX7q7FgB2PSJ33zm2xWCsk5rSHlgZWvJC6GGd8iZ4ZqIA9xLa5BEBtLfkERFElAMDcYGzxbUhCA8R5etDDDkAhVEarULHoU-sDaVnKmiFhf6886ONRpKX_yhy4AkauZ6k7LX1HqI2f8yHqpAp4HXueSIRNcI1A5zqUonxfExMTF9MfLqxxxMNu1u_dOZvHfWo3e6BKpvLRa0sz2tpKRAl9WSSWMMlPcPC_KIknHcSu7Sl4Z0I=",
+          "token" : "Nu-RoDfK7g-z1LHe4H5E_MUdZ6SV0l-d3wS4YJxkJmxrO7WEPPSmOley5WgH1kxEJWzzYtB_wxdC09UkaOFfxw=="
         } ]
       },
       "username" : "zero"
