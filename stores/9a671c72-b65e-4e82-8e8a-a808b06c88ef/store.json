@@ -4,7 +4,7 @@
   "disableShellInitTimeout" : false,
   "dontInteractWithSystem" : false,
   "forwardX11" : false,
-  "gateway" : "a7165ad2-8da0-4eae-b9ad-16e548fc31d2",
+  "gateway" : null,
   "host" : "217.12.206.9",
   "identity" : {
     "type" : "inPlace",
