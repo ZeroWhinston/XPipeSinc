@@ -4,7 +4,7 @@
   "disableShellInitTimeout" : false,
   "dontInteractWithSystem" : false,
   "forwardX11" : false,
-  "gateway" : "a7f3e2c7-b536-4dcd-90ad-c6d511b87208",
+  "gateway" : null,
   "host" : "195.123.214.52",
   "identity" : {
     "type" : "inPlace",
@@ -15,8 +15,8 @@
           "name" : "vault",
           "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
           "iteration" : 1,
-          "secret" : "gYlBcgTE0pg0wSWD3CbrLcCg5Q0JGz1k5Od91sHljNJ1SgPcAo7QyJoGetUBewvlmnjqcDUl7nZ3nUtYeN-YCin_ZMfIcYv5Wg4beUieDyXsnrsVYY5lp7j19pjmowRAT1ido_hKWIY2_Y0yvyxdHliTLL1h9AvV-D_SJLMcEg7btj_28k2SDRkTlmnw3m31uCB1-5xy5yjoa9gXylIWtpReflSZrMmfrk_zEhE82xs=",
-          "token" : "gM3XDMsBa6FjQGImQN63iYW_EAZKNnf-Ha_KeyRAonpUk1fPJU_GB7u3AaD_U8UG3DoYhwLvhlxvYOn-1Ou-jw=="
+          "secret" : "oKH1KKhGj_hXaKF0GkVvkqfJfRrTu-9y9jMwGLSyyeIBxPYJ9Tn4EPAIKF4YkfOrnxPM1F94wzuLiRN58S2DOWwRnBuOcl_NxOcG1dG0D2yUzawhbcBvtG_DQPA1Bb89w1NZxTaBfiYrrfA83aqyp1c82gRuTySneUQWRVdmHbCSsxpDE5WR7uUlq35QAUjc95nGocM5No4ACtTUA2Cg7xiBc3aDiIh9c4M6WJMQYe0=",
+          "token" : "gZviVdnOeFCGVU8tMqkHsAvsdfoPxqOsQqjADFXD2FulTEN8PA7cgrlaiN_YyMK4cB-FfU4uysERleKo18RIWw=="
         } ]
       },
       "sshIdentity" : {
@@ -24,8 +24,8 @@
           "name" : "vault",
           "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
           "iteration" : 1,
-          "secret" : "0ByLeDA0wmCzH3OvzV3De9WTvziPUrNnyGIOwGo97-SEvnnqK55-epl2BjG1hIfBunn-XswltUXtvg2_cUVtpiIwW7afRJHhmhsY_kezxjjgiMpEQvFH0PxsftC8jnG-VHktx2J_4Uy_vaDj5RD1DZwqWoEJBL32-uaacflYiE1xOU7Irw3BDPNURYHv4KEg9Kjm2_8-wuu444b1XrwdxULiS4YoLclD7tAYMrxU4_nXQbmUdsPc88YyIhkpVRkLs-fqvoDz33R5zsi-5172-w6o8pmwV30yLRhzQnphqLactDPohFL8o9sYVLx6FNzxOKRzJkQJ77_Jie9V-SvJnD4DmhOa_dEqLCGrVbnsr6k6T9n00rjRxjpUzGA90joajp09hekwlBJw6kJ2roV3y228zgO5RVFW4_2_u--TiavuxM_TrUmCxtekmB3vHxWog0FX54QbJf-UKkmuBsucxPdQrTZLke0cBttlWWu9ybbrnk-pLyYJ-fp2f3IAYY96AnVvaUEV9wYM-MPoyvPxI405iloH3Ak=",
-          "token" : "fzVa-tUnUz6nFIhAMepR1hRq7m6bN-Uhnvr22IUgB6JTbcyVPkV_8d-A0DOjHLF41SUDPaMdwR_rU17xcQboZg=="
+          "secret" : "2JOsm9JGlSQbblO9tU42gyUoDKw4wHCJlKQTW3c9CId32DwME9w8YJVOgkCtSahw3TDTs6aP5o0NCJYn4a_87FTIK5JJgoxjUc5zEfmkZtTDzKrxR8G_wSZNYdAHrYM-bExA_ZyheLz-UHvuuEDPMQZgGtlGvc7Qo146eGLUewlRqPPMtD8ARQ4ZayAqxsF4f3T7FHuiY4rwfeT78k9OEMMiKymK-AatW_fTPebUIIHxT00AQLyqa_BfT00ElBmMROq0hvg3jd9qWYEjxp-3IT2WfD1pci8Lj8d9c-T8SE4_qUH20vTtTH7Q9mYErI2SoX780VzEyK2wIAwjDLZP3JFF2i200PtopXl1gLGC49lCJz3RtFOY8_hw_DCtr0MirV36nRWaLflMJmypIsLTt3z-72gINU5Cj0JcgXt9H7g8c-f3DortUbiQwhNlFM13gD4safItPM3GRjp_RPpdbPIMAbKXAkaBIvMfBDG2209XVEeLCjF9SaNv4JKfUCPA01DUcCE6QyJaDK8=",
+          "token" : "P4Cd2WxjdUswtdF39QAHRJpOgKRWbdlWadOJCQ41_lDdKGMkGeV_p3IHm-7Oyq1LOmVlLv1eFPfCTI5AWjF97Q=="
         } ]
       },
       "username" : "root"
