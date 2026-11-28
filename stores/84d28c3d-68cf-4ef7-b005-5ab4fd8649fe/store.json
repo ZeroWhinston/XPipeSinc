@@ -15,8 +15,8 @@
           "name" : "vault",
           "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
           "iteration" : 1,
-          "secret" : "oKH1KKhGj_hXaKF0GkVvkqfJfRrTu-9y9jMwGLSyyeIBxPYJ9Tn4EPAIKF4YkfOrnxPM1F94wzuLiRN58S2DOWwRnBuOcl_NxOcG1dG0D2yUzawhbcBvtG_DQPA1Bb89w1NZxTaBfiYrrfA83aqyp1c82gRuTySneUQWRVdmHbCSsxpDE5WR7uUlq35QAUjc95nGocM5No4ACtTUA2Cg7xiBc3aDiIh9c4M6WJMQYe0=",
-          "token" : "gZviVdnOeFCGVU8tMqkHsAvsdfoPxqOsQqjADFXD2FulTEN8PA7cgrlaiN_YyMK4cB-FfU4uysERleKo18RIWw=="
+          "secret" : "oUaVNOLKltknuqYCBhobgX5cLDg2Ktd9X8LIM7_NrwX3GFTcd1N-eJxecXXGCW3xasAenKEg7ubvyiOI9IN12oyR8Y7WjFmPBSI2adG-3m3bDMLNZV5aQB1bsa98YiBp2DOlUsFf3jms4f4yzXLzD78RDwrU3fycDNjJpS1QrbiZ61lw2R4KV__LCap8Ng7fnVpcNRoQ5fNLJQsXmcm-HAdziFdMdc4H8nK6vQff3kWt-6SCi0R9xye6tqZ6VD4P",
+          "token" : "EH44u-FL51tpzchwIx0cItcX9PH5mMkYNDQeAiSbWrPN2FxGhv-ptjdBSDHPAVxQjtVlNWWzPFDCeL8MD0qYvg=="
         } ]
       },
       "sshIdentity" : {
@@ -24,13 +24,13 @@
           "name" : "vault",
           "principal" : "be815152-05d2-4094-84d3-f0eea9200d5f",
           "iteration" : 1,
-          "secret" : "2JOsm9JGlSQbblO9tU42gyUoDKw4wHCJlKQTW3c9CId32DwME9w8YJVOgkCtSahw3TDTs6aP5o0NCJYn4a_87FTIK5JJgoxjUc5zEfmkZtTDzKrxR8G_wSZNYdAHrYM-bExA_ZyheLz-UHvuuEDPMQZgGtlGvc7Qo146eGLUewlRqPPMtD8ARQ4ZayAqxsF4f3T7FHuiY4rwfeT78k9OEMMiKymK-AatW_fTPebUIIHxT00AQLyqa_BfT00ElBmMROq0hvg3jd9qWYEjxp-3IT2WfD1pci8Lj8d9c-T8SE4_qUH20vTtTH7Q9mYErI2SoX780VzEyK2wIAwjDLZP3JFF2i200PtopXl1gLGC49lCJz3RtFOY8_hw_DCtr0MirV36nRWaLflMJmypIsLTt3z-72gINU5Cj0JcgXt9H7g8c-f3DortUbiQwhNlFM13gD4safItPM3GRjp_RPpdbPIMAbKXAkaBIvMfBDG2209XVEeLCjF9SaNv4JKfUCPA01DUcCE6QyJaDK8=",
-          "token" : "P4Cd2WxjdUswtdF39QAHRJpOgKRWbdlWadOJCQ41_lDdKGMkGeV_p3IHm-7Oyq1LOmVlLv1eFPfCTI5AWjF97Q=="
+          "secret" : "TVF6d9lRPXXV4s2QpGWt14BUCOZd5I5Y9K9DQAbgumvm6CYH64X5DZ9F0ofj1L8IzP5UxDmW39Tr_yvZtTYybnpQgf6sEXjCkZ7yK7zDgFd1R_ehZA8uawaE2OdzbF1UYQFeGEpMDi2jGgDlU1W2YNr07MYO0atNkZ6LDUE4AvvL2oNjWES7qHJWFFyzc_w_fTnMd9E-mGsCZ_ix2a5lFfwQz5BVErEnSm04kOR9RfcoFZHPVT78Ie4PEw4_lEzsXjthQu5_xdINwqxCM37Q4fQeZqLl_Es0xHIa2DrJe5_FnNV1WjF2TS-CC-dTifyg1LINUhSasDACEnJSkVyvffZuTd0WtckfA0Yxg5dK3OyzheFWcZDPzSURvGmzrlJf0l83fb28PX5ukqnoR3i3edvw1H5v2qeHLkoVHr9tizoW0ALEH-nCn2KN0xjMjmXnmxFDTupdj6Ai-BBIepwGr1rZYZfqPFVAMrTgppO8EL08xDrsLnI4DDKcuCFXRGB7Sbh7520gfvojLPE=",
+          "token" : "3fQS2yyMMLTvvs90i7qkWXG7xPWruENZF0BLmGVIWolhUwAYwdSSuqTgQEKzIEQ5qP2_nPCyM3XpnfyIjAwZYA=="
         } ]
       },
-      "username" : "root"
+      "username" : "zero"
     }
   },
-  "port" : 22,
+  "port" : 48222,
   "useGatewayWithProxyJump" : true
 }
